@@ -25,6 +25,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Screenshot
 
-![Screen Shot 1](https://github.com/[username]/[reponame]/blob/[branch]/01.PNG.jpg?raw=true)
+![Screen Shot 1](https://github.com/Kishor-Kumar-Namdeo/Pizza-Task/blob/main/public/screenshots/01.PNG)
+![Screen Shot 2](https://github.com/Kishor-Kumar-Namdeo/Pizza-Task/blob/main/public/screenshots/02.PNG)
+![Screen Shot 3](https://github.com/Kishor-Kumar-Namdeo/Pizza-Task/blob/main/public/screenshots/03.PNG)
 
 
